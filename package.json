@@ -65,9 +65,9 @@
   "devDependencies": {
     "@commitlint/cli": "^17.2.0",
     "@commitlint/config-conventional": "^17.2.0",
-    "@sanity/pkg-utils": "^1.20.2",
-    "@sanity/plugin-kit": "^2.1.19",
-    "@sanity/semantic-release-preset": "^2.0.2",
+    "@sanity/pkg-utils": "^1.20.4",
+    "@sanity/plugin-kit": "^2.2.0",
+    "@sanity/semantic-release-preset": "^2.0.5",
     "@types/jest": "^27.5.0",
     "@types/react": "^18",
     "@types/react-dom": "^18",
@@ -82,13 +82,13 @@
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
-    "prettier-plugin-packagejson": "^2.3.0",
+    "prettier-plugin-packagejson": "^2.4.3",
     "react": "^18",
     "react-dom": "^18",
     "rimraf": "^3.0.2",
     "sanity": "^3.0.1",
     "standard-version": "^9.3.2",
-    "styled-components": "^5.3.5",
+    "styled-components": "^5.3.9",
     "typescript": "^4.8.4"
   },
   "peerDependencies": {
